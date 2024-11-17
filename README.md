@@ -1,4 +1,3 @@
-[Enroll](https://www.codingaddict.io/)
 
 # Practical TypeScript Course
 
@@ -24,4 +23,3 @@ Finally, the course culminates in building a modern store application with TypeS
 
 Join us in **"Practical TypeScript"** to elevate your skills and confidently apply TypeScript in your development projects, from basic to advanced levels.
 
-[Enroll](https://www.codingaddict.io/)
